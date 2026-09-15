@@ -2,3 +2,9 @@
 coldenv
 .env
 __pycache__
+*.pyc
+
+#IDE & Tool State
+.vscode
+RunQL/
+README_RUNQL.md
