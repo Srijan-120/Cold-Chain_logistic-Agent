@@ -5,6 +5,7 @@ langchain-community==0.4.2
 langchain-huggingface==1.2.2
 langchain-openai==1.6.0
 langchain-pinecone==0.2.13
+langchain-voyageai
 langgraph==1.2.11
 langgraph-checkpoint==4.2.0
 langsmith==0.11.1
@@ -21,3 +22,8 @@ sentence-transformers==6.0.0
 SQLAlchemy==2.0.52
 streamlit==1.62.0
 torch==2.13.0
+voyageai
+langchain-groq
+langchain-voyageai
+voyageai
+requests
